@@ -53,6 +53,11 @@ TBD
 ### RAG
 - [Improving LlamaIndex RAG performance with ranking](https://medium.com/@colemurray/enhancing-rag-with-baai-bge-reranker-a-comprehensive-guide-fe994ba9f82a)
 
+## Synthetic Data
+- [Using LLMs To Build a Code Generation Dataset](https://murraycole.com/posts/code-cleaning-with-llms)
+- [Building an LLM Evaluation Tool With Syntehtic Data Generation in 20 mins](https://murraycole.com/posts/llm-evaluation-tool)
+- [Llama 3's Synthetic Code Generation: Developing an AI-Powered Coding Environment](https://murraycole.com/posts/llama3-synthetic-data-generation)
+
 ## Research Papers
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
