@@ -47,6 +47,11 @@ TBD
 - [Deep Learning for NLP](https://example.com)
 - [Transformers and Attention Mechanisms](https://example.com)
 - [Fine-tuning LLMs](https://example.com)
+- [Generating Synthetic Data with LLM's For Fine-tuning](https://medium.com/@colemurray/generating-synthetic-data-with-llms-for-fine-tuning-7d93bf271794)
+
+## Topics
+### RAG
+- [Improving LlamaIndex RAG performance with ranking](https://medium.com/@colemurray/enhancing-rag-with-baai-bge-reranker-a-comprehensive-guide-fe994ba9f82a)
 
 ## Research Papers
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
